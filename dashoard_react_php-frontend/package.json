@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "http://localhost/dashboard_react_php/dashoard_react_php-frontend/build/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dashboard_react_php/dashoard_react_php-frontend/build/static/css/main.1e52d142.chunk.css",
+    "main.js": "/dashboard_react_php/dashoard_react_php-frontend/build/static/js/main.12920e18.chunk.js",
+    "main.js.map": "/dashboard_react_php/dashoard_react_php-frontend/build/static/js/main.12920e18.chunk.js.map",
+    "runtime~main.js": "/dashboard_react_php/dashoard_react_php-frontend/build/static/js/runtime~main.7b7282e2.js",
+    "runtime~main.js.map": "/dashboard_react_php/dashoard_react_php-frontend/build/static/js/runtime~main.7b7282e2.js.map",
+    "static/css/2.5a2f7233.chunk.css": "/dashboard_react_php/dashoard_react_php-frontend/build/static/css/2.5a2f7233.chunk.css",
+    "static/js/2.8278cea1.chunk.js": "/dashboard_react_php/dashoard_react_php-frontend/build/static/js/2.8278cea1.chunk.js",
+    "static/js/2.8278cea1.chunk.js.map": "/dashboard_react_php/dashoard_react_php-frontend/build/static/js/2.8278cea1.chunk.js.map",
+    "index.html": "/dashboard_react_php/dashoard_react_php-frontend/build/index.html",
+    "precache-manifest.5a487ff0db148b600e09f7a420487d4d.js": "/dashboard_react_php/dashoard_react_php-frontend/build/precache-manifest.5a487ff0db148b600e09f7a420487d4d.js",
+    "service-worker.js": "/dashboard_react_php/dashoard_react_php-frontend/build/service-worker.js",
+    "static/css/2.5a2f7233.chunk.css.map": "/dashboard_react_php/dashoard_react_php-frontend/build/static/css/2.5a2f7233.chunk.css.map",
+    "static/css/main.1e52d142.chunk.css.map": "/dashboard_react_php/dashoard_react_php-frontend/build/static/css/main.1e52d142.chunk.css.map"
+  }
+}

@@ -21,7 +21,7 @@ export default function InputText( props){
             <input 
                 id={props.id} 
                 name={props.name} 
-                type="email" 
+                type={props.type ? props.type : 'text'} 
                 required="required"
                 onFocus={animaLabel}
                 onChange={(e) => props.onChange(e, props.name)}
